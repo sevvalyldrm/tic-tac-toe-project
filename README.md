@@ -16,12 +16,12 @@ git clone https://github.com/sizin-kullanici-adi/react-tic-tac-toe.git
 cd react-tic-tac-toe
 ````
 
-4. Gerekli bağımlılıkları yükleyin.
+3. Gerekli bağımlılıkları yükleyin.
 ````
 npm install
 ````
 
-6. Uygulamayı başlatın.
+4. Uygulamayı başlatın.
 ````
 npm start
 ````
